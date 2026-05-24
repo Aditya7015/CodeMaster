@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const axiosClient =  axios.create({
-    baseURL: 'https://codemaster-sfk0.onrender.com',
+    baseURL: 'https://codemaster-backend-1m59.onrender.com/',
     // baseURL:"http://localhost:17216",
     withCredentials: true,
     headers: {
